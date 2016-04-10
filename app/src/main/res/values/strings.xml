@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test_CanErease</string>
+    <string name="about_Button">About Button</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="detail_Button">เปิด Hotmail.com</string>
+    <string name="back_to_Main_Button">กลับหน้าหลัก</string>
+    <string name="sound_Button">ใส่เสียงเมื่อกด</string>
+</resources>
